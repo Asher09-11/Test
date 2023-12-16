@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "447396853959",
+    "project_id": "central-photo-digital-db",
+    "storage_bucket": "central-photo-digital-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447396853959:android:48a691e7bdd106d8d126e2",
+        "android_client_info": {
+          "package_name": "com.example.centralphotodigitalapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4QTE0as6byfG6Xslp2H0Sy2OX0Dz4n64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447396853959:android:6e1df991f002a226d126e2",
+        "android_client_info": {
+          "package_name": "package.com.example.centralphotodigitalapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4QTE0as6byfG6Xslp2H0Sy2OX0Dz4n64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
